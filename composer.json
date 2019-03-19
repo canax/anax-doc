@@ -1,0 +1,11 @@
+{
+    "name" : "anax/noname",
+    "description": "Anax scaffolding website for development",
+    "license": "MIT",
+    "require": {
+        "anax/anax-flat": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {"Anax\\": "src/"}
+    }
+}
